@@ -1,4 +1,4 @@
-![Tezos Ecosystem Projects](TezosEcosystem.png)
+![e-foncier mkz Projects](TezosEcosystem.png)
 
 This repository serves as the source for the Tezos Ecosystem page at https://tezos.com/ecosystem.
 
